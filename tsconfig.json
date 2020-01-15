@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "ES6",
+    "outDir": "build",
+    "baseUrl": "src",
+    "removeComments": true,
+    "paths": {
+      "@CommandListener": ["structures/CommandListener"]
+    }
+  }  
+}
