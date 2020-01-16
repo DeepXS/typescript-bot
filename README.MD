@@ -3,7 +3,7 @@
 This is an bot with: `TypeScript & Class`
 =
 
-Please read INFO.md and CREDITS.md
+*Please read INFO.md and CREDITS.md*
 
 Made with love <3
 
